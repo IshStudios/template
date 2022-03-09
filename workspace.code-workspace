@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Flutter Apps/mi_card_flutter"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS Projects"
+	}
+}
